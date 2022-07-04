@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fstudents\u002Feditprofil\u002F[username]","\u002Fstudents\u002F[username]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
